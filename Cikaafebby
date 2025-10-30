@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+       <title>Profile Saya - Cikafbby</title>
+       <link rel="stylesheet" href="style.css">
+</head>
+<body>
+       <div class="kartu-profil">
+       <img src="foto-profil.jpg" alt="Foto profil saya">
+       <h1>Cika Febby</h1>
+       <p>Siswa SMK yang tertarik dengan teknologi dan desain. Selamat datang di website pertama saya!</p>
+       <a href="https://www.instagram.com/@cikafbyy_">Kunjungi Instagram Saya</a>
+       <button id="SapaButton">Sapa Saya!</button>
+   </div>
+</body>
+</html>
