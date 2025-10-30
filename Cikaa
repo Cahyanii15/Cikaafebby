@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Profile Saya- Cika</title>
+    <link rel="style sheet" href="style.css">
+</head>
+<Body>
+      <dif class="kartu-profil">
+      <img src="foto-profile.jpg" alt=foto profile saya">
+      <h1>Alisa Cika Febby Cahyani</h1>
+      <p>Siswa yang tertarik dengan teknologi dan desain. Selamat datang di website pertama saya</p>
+      <a href="https://www.tiktok.com/@abcdefebby1"> Kunjungi instagram saya</a>
+      <button id="SapaButton">Sapa Saya!</button>
+    </dif>
+<script src="script.js"></script>
+</Body>
+</html>
